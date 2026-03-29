@@ -1,0 +1,14 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "chrome",
+            "request": "launch",
+            "name": "Open tugas_days2.html",
+            "file": "c:\\Backup asus wahyu(28-11-2024)\\tugas codingan\\tugas_days2.html"
+        }
+    ]
+}
